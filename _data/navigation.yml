@@ -9,11 +9,11 @@ main:
   #- title: "中文版"
   #  url: /Chinese/ 
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
-  - title: "People"
-    url: /people/
+  #- title: "People"
+  #  url: /people/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
