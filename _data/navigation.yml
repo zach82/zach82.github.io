@@ -3,8 +3,8 @@ main:
   #- title: "Publications"
   #  url: /publications/
 
-  #- title: "Talks"
-  # url: /talks/   
+  - title: "Talks"
+   url: /talks/   
   
   #- title: "中文版"
   #  url: /Chinese/ 
@@ -12,8 +12,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  - title: "People"
+    url: /people/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
