@@ -14,9 +14,9 @@ redirect_from:
 <img src='/images/160px-Animhorse.gif' width="256">
 -->
 
-I am currently an Associate Professor at the Department of Computer Science and Technology at Hohai University, China. I hold a B.Eng. degree from **Southeast University, Nanjing, China**, awarded in 2002, and a Ph.D. degree from the **University of Wisconsin-Madison, USA**, awarded in 2015. My research expertise lies in the fields of Artificial Intelligence, Distributed Computing, and their Applications. I have authored more than 20 papers and been granted more than 10 Invention Patents, exploring the application of these technologies in various domains.
+I am currently an Associate Professor at the Department of Computer Science and Technology at Hohai University, China. I hold a B.Eng. degree from **Southeast University, Nanjing, China**, awarded in 2002, and a Ph.D. degree from the **University of Wisconsin-Madison, USA**, awarded in 2015, in Electrical and Computer Engineering. My research expertise lies in the fields of Artificial Intelligence, Distributed Computing, and their Applications. I have authored more than 20 papers and have been granted more than 10 Invention Patents, exploring the application of these technologies in various domains.
 
-My current research interests include **Federated Learning, Reinforcement Learning, and their Applications**.
+My current research interests include **Federated Learning, Multi-agent Reinforcement Learning, and their Applications**.
 
 Recent Publications
 ======
@@ -30,7 +30,7 @@ Recent Publications
 8. **Zaipeng Xie***, Cheng Ji, and Yufeng Zhang. "Deep Skill Chaining with Diversity for Multi-agent Systems.” Artificial Intelligence. CICAI 2022. Lecture Notes in Computer Science, vol 13606. Springer, Cham., Beijing, China, August 27–28, 2022. (Oral presentation, **Finalist of Best Student Paper Award**)  [DOI:10.1007/978-3-031-20503-3_17](https://doi.org/10.1007/978-3-031-20503-3_17)
 9. **Zaipeng Xie***, Zhaobin Li, Yida Zhang, Jianan Zhang, Fangming Liu, and Wei Chen. A Multi-Sensory Guidance System for the Visually Impaired Using YOLO and ORB-SLAM. Information 2022, 13, 343. [DOI:10.3390/info13070343](https://doi.org/10.3390/info13070343) (大学生创新创业训练省级项目结题论文)  
 
-Recent Invention Patents
+Granted Invention Patents
 ======
 1. (CN107908457B, 2020.03.17), A Containerized Cloud Resource Allocation Method Based on Stable Matching (一种基于稳定匹配的容器化云资源分配方法 )
 2. (CN109788046B, 2020.06.16), A Multi-Strategy Edge Computing Resource Scheduling Method Based on Improved Bee Algorithm (一种基于改进蜂群算法的多策略边缘计算资源调度方法)
