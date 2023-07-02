@@ -50,6 +50,12 @@ Teaching
 - 0601122, Computer Organization and Architecture
 - 21M070304, Distributed Computing
 
+News
+======
+- (06/2023) Our two papers were accepted by IEEE International Conference on Systems, Man, and Cybernetics (SMC) (CCF C)!
+- (06/2023) Our one paper was accepted by Sensors (JCR Q2)!
+- (06/2023) Our one paper was accepted by the 56th IEEE International Symposium on Circuits and Systems (ISCAS) (CCF C)!
+  
 Contact
 ======
 If you're interested to join my team, please contact me at zaipengxie@hhu.edu.cn
