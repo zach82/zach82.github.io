@@ -20,9 +20,9 @@ My current research interests include **Federated Learning, Multi-agent Reinforc
 
 News in 2023
 ======
-- (<span style="color: goldenrod;">**New**</span> (06/2023) Our two papers were accepted by IEEE International Conference on Systems, Man, and Cybernetics (SMC) (CCF C)!
-- (<span style="color: goldenrod;">**New**</span> (06/2023) Our one paper was accepted by Sensors (SCI JCR Q2)!
-- (<span style="color: goldenrod;">**New**</span> (06/2023) Our one paper was accepted by the 56th IEEE International Symposium on Circuits and Systems (ISCAS) (CCF C)!
+- <span style="color: goldenrod;">**New**</span> (06/2023) Our two papers were accepted by IEEE International Conference on Systems, Man, and Cybernetics (SMC) (CCF C)!
+- <span style="color: goldenrod;">**New**</span> (06/2023) Our one paper was accepted by Sensors (SCI JCR Q2)!
+- <span style="color: goldenrod;">**New**</span> (06/2023) Our one paper was accepted by the 56th IEEE International Symposium on Circuits and Systems (ISCAS) (CCF C)!
 
 
 Recent Publications
@@ -59,5 +59,5 @@ Teaching
   
 Contact
 ======
-If you're interested to join my team, please contact me at zaipengxie at hhu.edu.cn(mailto:zaipengxie@hhu.edu.cn)
+If you're interested to join my team, please contact me at zaipengxie@hhu.edu.cn(mailto:zaipengxie@hhu.edu.cn)
 
