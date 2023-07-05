@@ -18,6 +18,19 @@ I am currently an Associate Professor at the Department of Computer Science and 
 
 My current research interests include **Federated Learning, Multi-agent Reinforcement Learning, and their Applications**.
 
+News
+======
+- (06/2023) Our two papers were accepted by IEEE International Conference on Systems, Man, and Cybernetics (SMC) (CCF C)!
+- (06/2023) Our one paper was accepted by Sensors (JCR Q2)!
+- (06/2023) Our one paper was accepted by the 56th IEEE International Symposium on Circuits and Systems (ISCAS) (CCF C)!
+
+News
+======
+- (<span style="color: goldenrod;">**06**</span>/2023) Our two papers were accepted by IEEE International Conference on Systems, Man, and Cybernetics (SMC) (CCF C)!
+- (<span style="color: goldenrod;">**06**</span>/2023) Our one paper was accepted by Sensors (JCR Q2)!
+- (<span style="color: goldenrod;">**06**</span>/2023) Our one paper was accepted by the 56th IEEE International Symposium on Circuits and Systems (ISCAS) (CCF C)!
+
+
 Recent Publications
 ======
 1. **Zaipeng Xie*** , Cheng Ji, Lifeng Xu, Mingyao Xia, and Hongli Cao. Towards an Optimized Distributed Message Queue System for AIoT Edge Computing: A Reinforcement Learning Approach. Sensors. 2023; 23(12):5447. (SCI JCR Q2) [DOI:10.3390/s23125447](https://doi.org/10.3390/s23125447)
@@ -49,12 +62,6 @@ Teaching
 - 0611026, Introduction to Computational Thinking
 - 0601122, Computer Organization and Architecture
 - 21M070304, Distributed Computing
-
-News
-======
-- (06/2023) Our two papers were accepted by IEEE International Conference on Systems, Man, and Cybernetics (SMC) (CCF C)!
-- (06/2023) Our one paper was accepted by Sensors (JCR Q2)!
-- (06/2023) Our one paper was accepted by the 56th IEEE International Symposium on Circuits and Systems (ISCAS) (CCF C)!
   
 Contact
 ======
