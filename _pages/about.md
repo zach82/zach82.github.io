@@ -18,17 +18,11 @@ I am currently an Associate Professor at the Department of Computer Science and 
 
 My current research interests include **Federated Learning, Multi-agent Reinforcement Learning, and their Applications**.
 
-News
+News in 2023
 ======
-- (06/2023) Our two papers were accepted by IEEE International Conference on Systems, Man, and Cybernetics (SMC) (CCF C)!
-- (06/2023) Our one paper was accepted by Sensors (JCR Q2)!
-- (06/2023) Our one paper was accepted by the 56th IEEE International Symposium on Circuits and Systems (ISCAS) (CCF C)!
-
-News
-======
-- (<span style="color: goldenrod;">**06**</span>/2023) Our two papers were accepted by IEEE International Conference on Systems, Man, and Cybernetics (SMC) (CCF C)!
-- (<span style="color: goldenrod;">**06**</span>/2023) Our one paper was accepted by Sensors (JCR Q2)!
-- (<span style="color: goldenrod;">**06**</span>/2023) Our one paper was accepted by the 56th IEEE International Symposium on Circuits and Systems (ISCAS) (CCF C)!
+- (<span style="color: goldenrod;">**New**</span> (06/2023) Our two papers were accepted by IEEE International Conference on Systems, Man, and Cybernetics (SMC) (CCF C)!
+- (<span style="color: goldenrod;">**New**</span> (06/2023) Our one paper was accepted by Sensors (SCI JCR Q2)!
+- (<span style="color: goldenrod;">**New**</span> (06/2023) Our one paper was accepted by the 56th IEEE International Symposium on Circuits and Systems (ISCAS) (CCF C)!
 
 
 Recent Publications
