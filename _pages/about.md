@@ -48,8 +48,8 @@ Granted Invention Patents
 7. (CN109656713B, 2022.09.16), A Container Scheduling Method Based on Edge Computing Framework (一种基于边缘计算框架的容器调度方法)
 8. (CN112988275B, 2022.10.14), A Task-Aware Mobile Edge Computing Method for Multi-User Computation Offloading (一种基于任务感知的移动边缘计算多用户计算卸载方法)
 9. (CN113132482B, 2022.10.14), A Distributed Message System Parameter Adaptive Optimization Method Based on Reinforcement Learning (一种基于强化学习的分布式消息系统参数自适应优化方法)
-10. (CN111400026A, 2023.02.28) A Distributed Load Balancing Method Based on Master-Slave Backup Technique (一种基于主从备份技术的分布式负载均衡方法)
-11. (CN111104215A, 2023.03.24) A Stochastic Gradient Descent Optimization Method Based on Distributed Coding (一种基于分布式编码的随机梯度下降优化方法)
+10. (CN111400026A, 2023.02.28), A Distributed Load Balancing Method Based on Master-Slave Backup Technique (一种基于主从备份技术的分布式负载均衡方法)
+11. (CN111104215A, 2023.03.24), A Stochastic Gradient Descent Optimization Method Based on Distributed Coding (一种基于分布式编码的随机梯度下降优化方法)
    
 Teaching
 ====== 
