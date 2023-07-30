@@ -14,9 +14,9 @@ redirect_from:
 <img src='/images/160px-Animhorse.gif' width="256">
 -->
 
-I am currently an Associate Professor at the Department of Computer Science and Technology at Hohai University, China. I hold a B.Eng. degree from **Southeast University, Nanjing, China**, awarded in 2002, and a Ph.D. degree from the **University of Wisconsin-Madison, USA**, awarded in 2015, in Electrical and Computer Engineering. I have been a visiting scholar at the Oak Ridge National Laboratory, USA from 2009 to 2015. My research expertise lies in the fields of Artificial Intelligence, Distributed Computing, and their Applications. I have authored more than 20 papers and have been granted more than 10 Invention Patents, exploring the application of these technologies in various domains.
+I am currently an Associate Professor at the Department of Computer Science and Technology at Hohai University, China. I hold a B.Eng. degree from **Southeast University, Nanjing, China**, awarded in 2002, and a Ph.D. degree from the **University of Wisconsin-Madison, USA**, awarded in 2015, in Electrical and Computer Engineering. I have been a visiting scholar at the Oak Ridge National Laboratory, USA, from 2009 to 2015. My research expertise lies in the fields of Distributed Computing, Artificial Intelligence, and Applications. I have authored more than 20 papers and have been granted more than 10 Invention Patents, exploring the application of these technologies in various domains.
 
-My current research interests include **Multi-agent Reinforcement Learning, Federated Learning, and their Applications**.
+My current research interests include **Federated Learning, Multi-agent Reinforcement Learning, and their Applications**.
 
 News in 2023
 ======
