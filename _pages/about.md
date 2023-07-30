@@ -55,6 +55,7 @@ Granted Invention Patents
 9. (CN113132482B, 2022.10.14), A Distributed Message System Parameter Adaptive Optimization Method Based on Reinforcement Learning (一种基于强化学习的分布式消息系统参数自适应优化方法)
 10. (CN111400026A, 2023.02.28), A Distributed Load Balancing Method Based on Master-Slave Backup Technique (一种基于主从备份技术的分布式负载均衡方法)
 11. (CN111104215A, 2023.03.24), A Stochastic Gradient Descent Optimization Method Based on Distributed Coding (一种基于分布式编码的随机梯度下降优化方法)
+12. Craig E. Deibele, Douglas E. Curry, Richard W. Dickson, Zaipeng Xie, "High speed high dynamic range high accuracy measurement system," U.S. Patent 9,506,953, Nov 29, 2016.
    
 Teaching
 ====== 
