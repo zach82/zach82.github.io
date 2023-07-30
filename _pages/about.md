@@ -20,6 +20,7 @@ My current research interests include **Multi-agent Reinforcement Learning, Fede
 
 News in 2023
 ======
+- <span style="color: goldenrod;">**New**</span> (07/2023) Our one paper was accepted by the 23rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2023) (CCF C)!
 - <span style="color: goldenrod;">**New**</span> (07/2023) Our one paper was accepted by the 26th European Conference on Artificial Intelligence (ECAI) (CCF B)!
 - <span style="color: goldenrod;">**New**</span> (06/2023) Our two papers were accepted by IEEE International Conference on Systems, Man, and Cybernetics (SMC) (CCF C)!
 - <span style="color: goldenrod;">**New**</span> (06/2023) Our one paper was accepted by Sensors (SCI JCR Q2)!
