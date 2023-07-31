@@ -65,5 +65,5 @@ Teaching
   
 Contact
 ======
-If you're interested to join my team, please contact me at [zaipengxie@hhu.edu.cn](mailto:zaipengxie@hhu.edu.cn)
+If you're interested in my research, please contact me at [zaipengxie@hhu.edu.cn](mailto:zaipengxie@hhu.edu.cn)
 
