@@ -20,11 +20,12 @@ My current research topics include **Federated Learning, Multi-agent Reinforceme
 
 News in 2023
 ======
-- <span style="color: goldenrod;">**New**</span> (07/2023) Our one paper was accepted by the 23rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) (CCF C)!
-- <span style="color: goldenrod;">**New**</span> (07/2023) Our one paper was accepted by the 26th European Conference on Artificial Intelligence (ECAI) (CCF B)!
-- <span style="color: goldenrod;">**New**</span> (06/2023) Our two papers were accepted by IEEE International Conference on Systems, Man, and Cybernetics (SMC) (CCF C)!
-- <span style="color: goldenrod;">**New**</span> (06/2023) Our one paper was accepted by Sensors (SCI JCR Q2)!
-- <span style="color: goldenrod;">**New**</span> (01/2023) Our one paper was accepted by the 56th IEEE International Symposium on Circuits and Systems (ISCAS) (CCF C)!
+- <span style="color: goldenrod;">**New**</span> (08/2023) Our one paper is accepted by the 30th International Conference on Neural Information Processing (ICONIP) (CCF C)!
+- <span style="color: goldenrod;">**New**</span> (07/2023) Our one paper is accepted by the 23rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) (CCF C)!
+- <span style="color: goldenrod;">**New**</span> (07/2023) Our one paper is accepted by the 26th European Conference on Artificial Intelligence (ECAI) (CCF B)!
+- <span style="color: goldenrod;">**New**</span> (06/2023) Our two papers are accepted by IEEE International Conference on Systems, Man, and Cybernetics (SMC) (CCF C)!
+- <span style="color: goldenrod;">**New**</span> (06/2023) Our one paper is accepted by Sensors (SCI JCR Q2)!
+- <span style="color: goldenrod;">**New**</span> (01/2023) Our one paper is accepted by the 56th IEEE International Symposium on Circuits and Systems (ISCAS) (CCF C)!
 
 
 Recent Publications
