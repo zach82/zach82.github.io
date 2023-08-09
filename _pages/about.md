@@ -32,7 +32,7 @@ News in 2023
 
 Recent Publications
 ======
-1. **Zaipeng Xie***, Cheng Ji, Chentai Qiao, WenZhan Song, Zewen Li, Yufeng Zhang, and Yujing Zhang. "MioDSC: Mutual Information Oriented Deep Skill Chaining for Multi-Agent Reinforcement Learning.” Accepted by the CAAI Transactions on Intelligence Technology. 2023; (SCI JCR Q2)!
+1. **Zaipeng Xie***, Cheng Ji, Chentai Qiao, WenZhan Song, Zewen Li, Yufeng Zhang, and Yujing Zhang. "MioDSC: Mutual Information Oriented Deep Skill Chaining for Multi-Agent Reinforcement Learning.” Accepted by the CAAI Transactions on Intelligence Technology. 2023; (SCI JCR Q2)
 2. **Zaipeng Xie***, Ziang Liu, Peng Chen, and Jianan Zhang. "Efficient Spiking Neural Architecture Search with Mixed Neuron Models and Variable Thresholds.” Accepted by the 30th International Conference on Neural Information Processing (ICONIP), Nov.20-23, 2023, Changsha, China. (CCF-C, Oral presentation) 
 3. **Zaipeng Xie***, Jianan Zhang, Yida Zhang, Chenghong Xu, Peng Chen, Zhihao Qu, and WenZhan Song. "An Efficient Fault Tolerance Strategy for Multi-task MapReduce Models Using Coded Distributed Computing.” Accepted by the 23rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), 20-22 October 2023, Tianjin, China. (CCF-C, Oral presentation)
 4. **Zaipeng Xie***, Wenhao Fang, Bingzhe Yu, Yang Ding, Yanling Pan, and WenZhan Song. "AMTL-Loc: Efficient WiFi Indoor Localization with Reduced Fingerprint Collection." Accepted by 2023 IEEE Global Communications Conference (GLOBECOM), 4–8 December 2023, Kuala Lumpur, Malaysia. (CCF-C, Oral presentation)  <a href="https://www.mediafire.com/file/g830zwn1yyhm55j/GlobalCom%253DAMTL2023Xie.pdf/file" download target="_blank">[PDF]</a>
