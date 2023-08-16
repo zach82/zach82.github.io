@@ -20,6 +20,7 @@ My current research topics include **Federated Learning, Multi-agent Reinforceme
 
 News in 2023
 ======
+- <span style="color: goldenrod;">**New**</span> (08/2023) I am appointed as the Associate Editor for "Sustainable Computing: Informatics and Systems." (SCI JCR Q1)!
 - <span style="color: goldenrod;">**New**</span> (08/2023) Our one paper is accepted by the CAAI Transactions on Intelligence Technology (SCI JCR Q2)!
 - <span style="color: goldenrod;">**New**</span> (08/2023) Our one paper is accepted by the 30th International Conference on Neural Information Processing (ICONIP) (CCF C)!
 - <span style="color: goldenrod;">**New**</span> (08/2023) Our one paper is accepted by the 2023 IEEE Global Communications Conference (GLOBECOM) (CCF C)!
