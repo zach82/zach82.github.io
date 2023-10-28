@@ -62,7 +62,7 @@ Granted Invention Patents
 10. (CN109788046B, 2020.06.16), A Multi-Strategy Edge Computing Resource Scheduling Method Based on Improved Bee Algorithm (一种基于改进蜂群算法的多策略边缘计算资源调度方法)
 11. (CN110276728A, 2022.08.05), A Face Video Enhancement Method Based on Residual Generative Adversarial Networks (一种基于残差生成对抗网络的人脸视频增强方法)
 12. (CN112988275B, 2022.10.14), A Task-Aware Mobile Edge Computing Method for Multi-User Computation Offloading (一种基于任务感知的移动边缘计算多用户计算卸载方法)
-13. (CN114269006A, 2023.04.14),An indoor AP clustering selection method and device based on information gain rate(一种基于信息增益率的室内AP聚类选取方法和设备)
+13. (CN114269006A, 2023.04.14), An indoor AP clustering selection method and device based on information gain rate (一种基于信息增益率的室内AP聚类选取方法和设备)
 14. Craig E. Deibele, Douglas E. Curry, Richard W. Dickson, Zaipeng Xie, "High speed high dynamic range high accuracy measurement system," U.S. Patent 9,506,953, Nov 29, 2016.
    
 Teaching
