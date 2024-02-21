@@ -18,6 +18,9 @@ I am currently an Associate Professor in the Department of Computer Science and 
 
 My current research topics include **Federated Learning, Multi-agent Reinforcement Learning, and their Applications**. I am currently one of the Associate Editors for <a href="https://www.sciencedirect.com/journal/sustainable-computing-informatics-and-systems/publish/guide-for-authors"> "Sustainable Computing: Informatics and Systems." </a>
 
+News in 2024
+======
+
 News in 2023
 ======
 - <span style="color: goldenrod;">**New**</span> (08/2023) Our one paper is accepted by the CAAI Transactions on Intelligence Technology (SCI JCR Q2)!
@@ -28,7 +31,6 @@ News in 2023
 - <span style="color: goldenrod;">**New**</span> (06/2023) Our two papers are accepted by IEEE International Conference on Systems, Man, and Cybernetics (SMC) (CCF C)!
 - <span style="color: goldenrod;">**New**</span> (06/2023) Our one paper is accepted by Sensors (SCI JCR Q2)!
 - <span style="color: goldenrod;">**New**</span> (01/2023) Our one paper is accepted by the 56th IEEE International Symposium on Circuits and Systems (ISCAS) (CCF C)!
-
 
 Recent Publications
 ======
