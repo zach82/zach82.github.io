@@ -20,7 +20,7 @@ My current research topics include **Federated Learning, Multi-agent Reinforceme
 
 News in 2024
 ======
-- <span style="color: goldenrod;">**New**</span> (02/2024) Our one paper is accepted by IEEE Internet of Things Journal (SCI JCR Q1)!
+- <span style="color: goldenrod;">**New**</span> (01/2024) Our one paper is accepted by IEEE Internet of Things Journal (SCI JCR Q1)!
 - <span style="color: goldenrod;">**New**</span> (01/2024) Our one paper is accepted by Computer‐Aided Civil and Infrastructure Engineering (SCI JCR Q1)!
 
 News in 2023
