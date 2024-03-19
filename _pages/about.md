@@ -20,6 +20,7 @@ My current research topics include **Federated Learning, Multi-agent Reinforceme
 
 News in 2024
 ======
+- <span style="color: goldenrod;">**New**</span> (03/2024) Our one paper is accepted by the 2024 International Joint Conference on Neural Networks (IJCNN) (CCF C)!
 - <span style="color: goldenrod;">**New**</span> (03/2024) Our one paper is accepted by CAAI Transactions on Intelligent Systems (CCF T2)!
 - <span style="color: goldenrod;">**New**</span> (01/2024) Our one paper is accepted by IEEE Internet of Things Journal (SCI JCR Q1)!
 - <span style="color: goldenrod;">**New**</span> (01/2024) Our one paper is accepted by Computer‐Aided Civil and Infrastructure Engineering (SCI JCR Q1)!
