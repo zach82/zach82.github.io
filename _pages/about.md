@@ -16,7 +16,7 @@ redirect_from:
 
 I am currently an Associate Professor in the Department of Computer Science and Technology at Hohai University, China. I hold a B.Eng. degree in Information Engineering from **Southeast University**, Nanjing, China, an M.Eng. degree in Electrical Engineering from **South China University of Technology**, and a Ph.D. degree in Electrical and Computer Engineering from the **University of Wisconsin-Madison, USA**. I was a visiting scholar at **Oak Ridge National Laboratory**, USA, from 2009 to 2015. Subsequently, I held the position of Postdoctoral Fellow at the same institution until the end of 2015. My research expertise lies in the fields of Distributed Computing, Machine Learning, and their Applications. I have authored more than 30 papers and have been granted over 10 Invention Patents, exploring the application of these technologies in various domains.
 
-My current research topics include **Distributed Learning Systems, Multi-agent Systems, and their Applications**. I am currently one of the Associate Editors for <a href="https://www.sciencedirect.com/journal/sustainable-computing-informatics-and-systems/publish/guide-for-authors"> "Sustainable Computing: Informatics and Systems." </a>
+My current research topics include **Distributed Learning Systems, Multi-agent Systems, and their Applications**. I am currently one of the Associate Editors for <a href="https://www.sciencedirect.com/journal/sustainable-computing-informatics-and-systems/publish/guide-for-authors"> "Sustainable Computing: Informatics and Systems."(SCI JCR Q1) </a>
 
 News in 2024
 ======
