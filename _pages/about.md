@@ -20,7 +20,7 @@ My current research topics include **Distributed Learning Systems, Multi-agent S
 
 News in 2024
 ======
-- <span style="color: goldenrod;">**New**</span> (10/2024) My student Mr. Jianan ZHANG's thesis has been awarded as an Outstanding Undergraduate Thesis at universities in Jiangsu Province(入选省级普通高校优秀本科毕业论文)!
+- <span style="color: goldenrod;">**New**</span> (10/2024) My student Mr. Jianan ZHANG's thesis has been awarded as an Outstanding Undergraduate Thesis in Jiangsu Province universities (入选江苏省普通高校优秀本科毕业论文)!
 - <span style="color: goldenrod;">**New**</span> (09/2024) Our paper has been accepted by the 16th Asian Conference on Machine Learning (ACML) (CCF C)!
 - <span style="color: goldenrod;">**New**</span> (08/2024) Our paper has been accepted by the 27th International Conference on Pattern Recognition (ICPR) (CCF C)!
 - <span style="color: goldenrod;">**New**</span> (05/2024) Our paper has been accepted by the 2024 IEEE 17th International Conference on Cloud Computing (IEEE CLOUD) (CCF C)!
