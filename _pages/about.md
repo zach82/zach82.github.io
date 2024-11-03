@@ -20,6 +20,7 @@ My current research topics include **Distributed Learning Systems, Multi-agent S
 
 News in 2024
 ======
+- <span style="color: goldenrod;">**New**</span> (10/2024) My student Mr. Jianan ZHANG's thesis has been awarded as an Outstanding Undergraduate Thesis at universities in Jiangsu Province(入选省级普通高校优秀本科毕业论文).!
 - <span style="color: goldenrod;">**New**</span> (09/2024) Our paper has been accepted by the 16th Asian Conference on Machine Learning (ACML) (CCF C)!
 - <span style="color: goldenrod;">**New**</span> (08/2024) Our paper has been accepted by the 27th International Conference on Pattern Recognition (ICPR) (CCF C)!
 - <span style="color: goldenrod;">**New**</span> (05/2024) Our paper has been accepted by the 2024 IEEE 17th International Conference on Cloud Computing (IEEE CLOUD) (CCF C)!
@@ -41,7 +42,7 @@ News in 2023
 
 Recent Publications
 ======
-1. **Zaipeng Xie***, Likun Li, Xiangbin Chen, Hao Yu, Qian Huang. “FedDGL: Federated Dynamic Graph Learning for Temporal Evolution and Data Heterogeneity.” the 16th Asian Conference on Machine Learning (ACML), Dec. 5-8, 2024, Hanoi, Vietnam. (CCF-C, Oral presentation)
+1. **Zaipeng Xie***, Likun Li, Xiangbin Chen, Hao Yu, Qian Huang. “FedDGL: Federated Dynamic Graph Learning for Temporal Evolution and Data Heterogeneity.” the 16th Asian Conference on Machine Learning (ACML), Dec. 5-8, 2024, Hanoi, Vietnam. (CCF-C, Oral presentation)  [\[PDF\]](https://www.mediafire.com/file/g7lmeq1bdqb8ux1/ACML%253DFedDGL2024Xie.pdf/file)
 2. **Zaipeng Xie***, Xiangqin Zhang, Yunfei Wang, Xuanyao Jie, Wenhao Fang, and Yanping Cai. “Improving Adaptive Runoff Forecasts in Data-Scarce Watersheds Through Personalized Federated Learning.” the 27th International Conference on Pattern Recognition (ICPR), Dec. 1-5, 2024, Kolkata, India. (CCF-C, Oral presentation)  [\[PDF\]](https://www.mediafire.com/file/asz6v7fvpw1mgmh/ICPR%253DFedHydroDSW2024.pdf/file)
 3. **Zaipeng Xie***, Han Xu, Xing Gao, Junchen Jiang, and Ruiqian Han. "Fed2PKD: Bridging Model Diversity in Federated Learning via Two-Pronged Knowledge Distillation." 2024 IEEE 17th International Conference on Cloud Computing (CLOUD), Shenzhen, China, pp. 1-11, July 7-13, 2024. (CCF-C, Oral presentation) [\[PDF\]](https://www.mediafire.com/file/dh1vjliu78mlz2z/IEEECLOUD%253DFed2PDK2024.pdf/file)[\[URL\]](https://doi.org/10.1109/CLOUD62652.2024.00011)[\[Slides\]](https://www.mediafire.com/file/juj2ydizifbgtaw/IEEECLOUD%253DFed2PDK2024-PPT.pdf/file)
 4. Jianan Zhang, **Zaipeng Xie***, Hongxing Li, Xuanyao Jie, Yunfei Wang, and Bowen Li. "SQMG: An Optimized Stochastic Quantization Method Using Multivariate Gaussians for Distributed Learning." In 2024 International Joint Conference on Neural Networks (IJCNN), Yokohama, Japan. (CCF-C, Poster presentation)  <a href="https://www.mediafire.com/file/iavzc7c09asfnn4/IJCNN%253DSQMG2024Zhang.pdf/file" download target="_blank">[PDF][\[URL\]](https://doi.org/10.1109/IJCNN60899.2024.10650133)<a href="https://www.mediafire.com/file/1ghnyln2htp8foo/IJCNN_2024_1570983851_1.3.pdf/file" download target="_blank">[Slides]</a>
