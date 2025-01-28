@@ -21,7 +21,7 @@ My current research topics include **Distributed Learning Systems, Multi-agent S
 News in 2025
 ======
 - <span style="color: goldenrod;">**New**</span> (01/2025) Our paper has been accepted by the 2025 IEEE International Conference on Robotics and Automation (ICRA) (CCF B)!
-- 
+- <span style="color: goldenrod;">**New**</span> (01/2025) Our paper has been accepted by IEEE Internet of Things Journal (SCI JCR Q1)!
 
 News in 2024
 ======
