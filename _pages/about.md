@@ -18,6 +18,11 @@ I am currently an Associate Professor in the Department of Computer Science and 
 
 My current research topics include **Distributed Learning Systems, Multi-agent Systems, and their Applications**. I am currently one of the Associate Editors for <a href="https://www.sciencedirect.com/journal/sustainable-computing-informatics-and-systems/publish/guide-for-authors"> "Sustainable Computing: Informatics and Systems."(SCI JCR Q2) </a>
 
+News in 2025
+======
+- <span style="color: goldenrod;">**New**</span> (01/2025) Our paper has been accepted by the 2025 IEEE International Conference on Robotics and Automation (ICRA) (CCF B)!
+- 
+
 News in 2024
 ======
 - <span style="color: goldenrod;">**New**</span> (10/2024) My student Mr. Jianan ZHANG's thesis has been awarded as an Outstanding Undergraduate Thesis in Jiangsu Province universities (入选江苏省普通高校优秀本科毕业论文)!
@@ -39,7 +44,7 @@ News in 2023
 - <span style="color: goldenrod;">**New**</span> (06/2023) Our two papers have been accepted by IEEE International Conference on Systems, Man, and Cybernetics (SMC) (CCF C)!
 - <span style="color: goldenrod;">**New**</span> (06/2023) Our paper has been accepted by Sensors (SCI JCR Q2)!
 - <span style="color: goldenrod;">**New**</span> (01/2023) Our paper has been accepted by the 56th IEEE International Symposium on Circuits and Systems (ISCAS) (CCF C)!
-
+  
 Recent Publications
 ======
 1. **Zaipeng Xie***, Likun Li, Xiangbin Chen, Hao Yu, Qian Huang. “FedDGL: Federated Dynamic Graph Learning for Temporal Evolution and Data Heterogeneity.” the 16th Asian Conference on Machine Learning (ACML), Dec. 5-8, 2024, Hanoi, Vietnam. (CCF-C, Oral presentation)  [\[PDF\]](https://www.mediafire.com/file/g7lmeq1bdqb8ux1/ACML%253DFedDGL2024Xie.pdf/file)
