@@ -75,24 +75,25 @@ Recent Publications
 
 Granted Invention Patents
 ======
-1. (CN114662639A, 2022.03.24), A Value Decomposition Based Approach And System For Multi-Agent Reinforcement Learning (一种基于值分解的多智能体强化学习方法及系统)
-2. (CN114818461A, 2022.03.08), An Improved Federated Learning-Based Method and System for Runoff Prediction (一种基于改进联邦学习的径流预测方法及预测系统)
-3. (CN114269006A, 2021.12.24), An indoor AP clustering selection method and device based on information gain rate (一种基于信息增益率的室内AP聚类选取方法和设备)
-4. (CN113989561A, 2021.10.29), An Asynchronous Federated Learning-Based Parameter Aggregation and Update Method, Device, and System (基于异步联邦学习的参数聚合更新方法、设备及系统)
-5. (CN113132482A, 2021.04.19), A Distributed Message System Parameter Adaptive Optimization Method Based on Reinforcement Learning (一种基于强化学习的分布式消息系统参数自适应优化方法)
-6. (CN112988275A, 2021.03.26), A Task-Aware Mobile Edge Computing Method for Multi-User Computation Offloading (一种基于任务感知的移动边缘计算多用户计算卸载方法)
-7. (CN112364985A, 2020.11.13), A convolution optimization method based on distributed coding (一种基于分布式编码的卷积优化方法)
-8. (CN112348199A, 2020.10.30), A Model Training Method Based on Federated Learning and Multi-Task Learning (一种基于联邦学习与多任务学习的模型训练方法)
-9. (CN112434805A, 2020.10.30), A Deep Neural Network Module Segmentation Method (一种深度神经网络模块分割方法)
-10. (CN111400026A, 2019.11.15), A Distributed Load Balancing Method Based on Master-Slave Backup Technique (一种基于主从备份技术的分布式负载均衡方法)
-11. (CN111104215A, 2019.11.15), A Stochastic Gradient Descent Optimization Method Based on Distributed Coding (一种基于分布式编码的随机梯度下降优化方法)
-12. (CN111045843A, 2019.11.01), A Fault-Tolerant Distributed Data Processing Method (具有容错能力的分布式数据处理方法)
-13. (CN110276728A, 2019.05.28), A Face Video Enhancement Method Based on Residual Generative Adversarial Networks (一种基于残差生成对抗网络的人脸视频增强方法)
-14. (CN109788046B, 2018.12.29), A Multi-Strategy Edge Computing Resource Scheduling Method Based on Improved Bee Algorithm (一种基于改进蜂群算法的多策略边缘计算资源调度方法)
-15. (CN109656713B, 2018.11.30), A Container Scheduling Method Based on Edge Computing Framework (一种基于边缘计算框架的容器调度方法)
-16. (CN107941332A, 2017.12.22), Optical Radiation Monitoring Device for High-Power Microwave Cavities, (高功率微波腔体的光辐射监测设备)
-17. (CN107908457B, 2017.11.08), A Containerized Cloud Resource Allocation Method Based on Stable Matching (一种基于稳定匹配的容器化云资源分配方法)
-18. Craig E. Deibele, Douglas E. Curry, Richard W. Dickson, Zaipeng Xie, "High speed high dynamic range high accuracy measurement system," U.S. Patent 9,506,953, Nov 29, 2016.
+1. (CN114997381A, 2022.04.26), Hardware Circuit for Neural Network Fully Connected Layer, and Its Design and Usage Methods (神经网络全连接层硬件电路及其设计方法和使用方法)
+2. (CN114662639A, 2022.03.24), A Value Decomposition Based Approach And System For Multi-Agent Reinforcement Learning (一种基于值分解的多智能体强化学习方法及系统)
+3. (CN114818461A, 2022.03.08), An Improved Federated Learning-Based Method and System for Runoff Prediction (一种基于改进联邦学习的径流预测方法及预测系统)
+4. (CN114269006A, 2021.12.24), An indoor AP clustering selection method and device based on information gain rate (一种基于信息增益率的室内AP聚类选取方法和设备)
+5. (CN113989561A, 2021.10.29), An Asynchronous Federated Learning-Based Parameter Aggregation and Update Method, Device, and System (基于异步联邦学习的参数聚合更新方法、设备及系统)
+6. (CN113132482A, 2021.04.19), A Distributed Message System Parameter Adaptive Optimization Method Based on Reinforcement Learning (一种基于强化学习的分布式消息系统参数自适应优化方法)
+7. (CN112988275A, 2021.03.26), A Task-Aware Mobile Edge Computing Method for Multi-User Computation Offloading (一种基于任务感知的移动边缘计算多用户计算卸载方法)
+8. (CN112364985A, 2020.11.13), A convolution optimization method based on distributed coding (一种基于分布式编码的卷积优化方法)
+9. (CN112348199A, 2020.10.30), A Model Training Method Based on Federated Learning and Multi-Task Learning (一种基于联邦学习与多任务学习的模型训练方法)
+10. (CN112434805A, 2020.10.30), A Deep Neural Network Module Segmentation Method (一种深度神经网络模块分割方法)
+11. (CN111400026A, 2019.11.15), A Distributed Load Balancing Method Based on Master-Slave Backup Technique (一种基于主从备份技术的分布式负载均衡方法)
+12. (CN111104215A, 2019.11.15), A Stochastic Gradient Descent Optimization Method Based on Distributed Coding (一种基于分布式编码的随机梯度下降优化方法)
+13. (CN111045843A, 2019.11.01), A Fault-Tolerant Distributed Data Processing Method (具有容错能力的分布式数据处理方法)
+14. (CN110276728A, 2019.05.28), A Face Video Enhancement Method Based on Residual Generative Adversarial Networks (一种基于残差生成对抗网络的人脸视频增强方法)
+15. (CN109788046B, 2018.12.29), A Multi-Strategy Edge Computing Resource Scheduling Method Based on Improved Bee Algorithm (一种基于改进蜂群算法的多策略边缘计算资源调度方法)
+16. (CN109656713B, 2018.11.30), A Container Scheduling Method Based on Edge Computing Framework (一种基于边缘计算框架的容器调度方法)
+17. (CN107941332A, 2017.12.22), Optical Radiation Monitoring Device for High-Power Microwave Cavities, (高功率微波腔体的光辐射监测设备)
+18. (CN107908457B, 2017.11.08), A Containerized Cloud Resource Allocation Method Based on Stable Matching (一种基于稳定匹配的容器化云资源分配方法)
+19. Craig E. Deibele, Douglas E. Curry, Richard W. Dickson, Zaipeng Xie, "High speed high dynamic range high accuracy measurement system," U.S. Patent 9,506,953, Nov 29, 2016.
    
 Teaching
 ====== 
