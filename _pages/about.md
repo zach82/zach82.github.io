@@ -20,6 +20,7 @@ My current research topics include **Distributed Learning Systems, Multi-agent S
 
 News in 2025
 ======
+- <span style="color: goldenrod;">**New**</span> (07/2025) Our two papers have been accepted by the 28th European Conference on Artificial Intelligence (ECAI) (CCF B)!
 - <span style="color: goldenrod;">**New**</span> (06/2025) Our paper has been accepted by the 21st International Conference on Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom) (CCF C)!
 - <span style="color: goldenrod;">**New**</span> (02/2025) I am honored to announce my appointment as an Editorial Board Member for Scientific Reports (SCI JCR Q1). 
 - <span style="color: goldenrod;">**New**</span> (02/2025) Our paper has been accepted by the 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD) (CCF C)!
