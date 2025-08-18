@@ -20,12 +20,12 @@ My current research topics include **Distributed Learning Systems, Multi-agent S
 
 News in 2025
 ======
-- <span style="color: goldenrod;">**New**</span> (08/2025) Our paper has been accepted by Expert Systems with Applications (SCI JCR Q1)!
-- <span style="color: goldenrod;">**New**</span> (07/2025) Our two papers have been accepted by the 28th European Conference on Artificial Intelligence (ECAI) (CCF B)!
-- <span style="color: goldenrod;">**New**</span> (06/2025) Our paper has been accepted by the 21st International Conference on Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom) (CCF C)!
-- <span style="color: goldenrod;">**New**</span> (02/2025) I am honored to announce my appointment as an Editorial Board Member for Scientific Reports (SCI JCR Q1). 
-- <span style="color: goldenrod;">**New**</span> (02/2025) Our paper has been accepted by the 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD) (CCF C)!
-- <span style="color: goldenrod;">**New**</span> (01/2025) Our paper has been accepted by the 2025 IEEE International Conference on Robotics and Automation (ICRA) (CCF B)!
+- <span style="color: goldenrod;">**New**</span> (08/2025) Our paper has been accepted by **Expert Systems with Applications** (SCI JCR Q1,中科院一区)!
+- <span style="color: goldenrod;">**New**</span> (07/2025) Our two papers have been accepted by **the 28th European Conference on Artificial Intelligence (ECAI)** (CCF B)!
+- <span style="color: goldenrod;">**New**</span> (06/2025) Our paper has been accepted by **the 21st International Conference on Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom)** (CCF C)!
+- <span style="color: goldenrod;">**New**</span> (02/2025) I am honored to announce my appointment as an Editorial Board Member for **Scientific Reports** (SCI JCR Q1). 
+- <span style="color: goldenrod;">**New**</span> (02/2025) Our paper has been accepted by **the 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD)** (CCF C)!
+- <span style="color: goldenrod;">**New**</span> (01/2025) Our paper has been accepted by **the 2025 IEEE International Conference on Robotics and Automation (ICRA)** (CCF B)!
 - <span style="color: goldenrod;">**New**</span> (01/2025) Our paper has been accepted by IEEE Internet of Things Journal (SCI JCR Q1)!
 
 News in 2024
@@ -41,7 +41,7 @@ News in 2024
 
 News in 2023
 ======
-- <span style="color: goldenrod;">**New**</span> (08/2023) Our paper has been accepted by the CAAI Transactions on Intelligence Technology (SCI JCR Q1)!
+- <span style="color: goldenrod;">**New**</span> (08/2023) Our paper has been accepted by the CAAI Transactions on Intelligence Technology (SCI JCR Q1,中科院一区)!
 - <span style="color: goldenrod;">**New**</span> (08/2023) Our paper has been accepted by the 30th International Conference on Neural Information Processing (ICONIP) (CCF C)!
 - <span style="color: goldenrod;">**New**</span> (08/2023) Our paper has been accepted by the 2023 IEEE Global Communications Conference (GLOBECOM) (CCF C)!
 - <span style="color: goldenrod;">**New**</span> (07/2023) Our paper has been accepted by the 23rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) (CCF C)!
