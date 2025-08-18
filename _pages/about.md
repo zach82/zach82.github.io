@@ -30,25 +30,25 @@ News in 2025
 
 News in 2024
 ======
-- <span style="color: goldenrod;">**New**</span> (10/2024) My student Mr. Jianan ZHANG's thesis has been awarded as an Outstanding Undergraduate Thesis in Jiangsu Province Universities (入选江苏省普通高校优秀本科毕业论文)!
-- <span style="color: goldenrod;">**New**</span> (09/2024) Our paper has been accepted by the 16th Asian Conference on Machine Learning (ACML) (CCF C)!
-- <span style="color: goldenrod;">**New**</span> (08/2024) Our paper has been accepted by the 27th International Conference on Pattern Recognition (ICPR) (CCF C)!
-- <span style="color: goldenrod;">**New**</span> (05/2024) Our paper has been accepted by the 2024 IEEE 17th International Conference on Cloud Computing (IEEE CLOUD) (CCF C)!
-- <span style="color: goldenrod;">**New**</span> (03/2024) Our paper has been accepted by the 2024 International Joint Conference on Neural Networks (IJCNN) (CCF C)!
-- <span style="color: goldenrod;">**New**</span> (03/2024) Our paper has been accepted by CAAI Transactions on Intelligent Systems (CCF T2)!
-- <span style="color: goldenrod;">**New**</span> (01/2024) Our paper has been accepted by IEEE Internet of Things Journal (SCI JCR Q1)!
-- <span style="color: goldenrod;">**New**</span> (01/2024) Our paper has been accepted by Computer‐Aided Civil and Infrastructure Engineering (SCI JCR Q1)!
+- <span style="color: goldenrod;">**New**</span> (10/2024) My student Mr. Jianan ZHANG's thesis has been awarded as an Outstanding Undergraduate Thesis in Jiangsu Province Universities (入选**江苏省普通高校优秀本科毕业论文**)!
+- <span style="color: goldenrod;">**New**</span> (09/2024) Our paper has been accepted by **the 16th Asian Conference on Machine Learning (ACML)** (CCF C)!
+- <span style="color: goldenrod;">**New**</span> (08/2024) Our paper has been accepted by **the 27th International Conference on Pattern Recognition (ICPR)** (CCF C)!
+- <span style="color: goldenrod;">**New**</span> (05/2024) Our paper has been accepted by **the 2024 IEEE 17th International Conference on Cloud Computing (IEEE CLOUD)** (CCF C)!
+- <span style="color: goldenrod;">**New**</span> (03/2024) Our paper has been accepted by **the 2024 International Joint Conference on Neural Networks (IJCNN)** (CCF C)!
+- <span style="color: goldenrod;">**New**</span> (03/2024) Our paper has been accepted by **CAAI Transactions on Intelligent Systems** (CCF T2)!
+- <span style="color: goldenrod;">**New**</span> (01/2024) Our paper has been accepted by **IEEE Internet of Things Journal** (SCI JCR Q1)!
+- <span style="color: goldenrod;">**New**</span> (01/2024) Our paper has been accepted by **Computer‐Aided Civil and Infrastructure Engineering** (SCI JCR Q1)!
 
 News in 2023
 ======
-- <span style="color: goldenrod;">**New**</span> (08/2023) Our paper has been accepted by the CAAI Transactions on Intelligence Technology (SCI JCR Q1,中科院一区)!
-- <span style="color: goldenrod;">**New**</span> (08/2023) Our paper has been accepted by the 30th International Conference on Neural Information Processing (ICONIP) (CCF C)!
-- <span style="color: goldenrod;">**New**</span> (08/2023) Our paper has been accepted by the 2023 IEEE Global Communications Conference (GLOBECOM) (CCF C)!
-- <span style="color: goldenrod;">**New**</span> (07/2023) Our paper has been accepted by the 23rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) (CCF C)!
-- <span style="color: goldenrod;">**New**</span> (07/2023) Our paper has been accepted by the 26th European Conference on Artificial Intelligence (ECAI) (CCF B)!
-- <span style="color: goldenrod;">**New**</span> (06/2023) Our two papers have been accepted by IEEE International Conference on Systems, Man, and Cybernetics (SMC) (CCF C)!
-- <span style="color: goldenrod;">**New**</span> (06/2023) Our paper has been accepted by Sensors (SCI JCR Q2)!
-- <span style="color: goldenrod;">**New**</span> (01/2023) Our paper has been accepted by the 56th IEEE International Symposium on Circuits and Systems (ISCAS) (CCF C)!
+- <span style="color: goldenrod;">**New**</span> (08/2023) Our paper has been accepted by the **CAAI Transactions on Intelligence Technology** (SCI JCR Q1,中科院一区)!
+- <span style="color: goldenrod;">**New**</span> (08/2023) Our paper has been accepted by **the 30th International Conference on Neural Information Processing (ICONIP)** (CCF C)!
+- <span style="color: goldenrod;">**New**</span> (08/2023) Our paper has been accepted by **the 2023 IEEE Global Communications Conference (GLOBECOM)** (CCF C)!
+- <span style="color: goldenrod;">**New**</span> (07/2023) Our paper has been accepted by **the 23rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)** (CCF C)!
+- <span style="color: goldenrod;">**New**</span> (07/2023) Our paper has been accepted by **the 26th European Conference on Artificial Intelligence (ECAI)** (CCF B)!
+- <span style="color: goldenrod;">**New**</span> (06/2023) Our two papers have been accepted by **IEEE International Conference on Systems, Man, and Cybernetics (SMC)** (CCF C)!
+- <span style="color: goldenrod;">**New**</span> (06/2023) Our paper has been accepted by **Sensors** (SCI JCR Q2)!
+- <span style="color: goldenrod;">**New**</span> (01/2023) Our paper has been accepted by **the 56th IEEE International Symposium on Circuits and Systems (ISCAS)** (CCF C)!
   
 Recent Publications
 ======
