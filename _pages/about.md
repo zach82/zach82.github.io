@@ -20,6 +20,7 @@ My current research topics include **Distributed Learning Systems, Multi-agent S
 
 News in 2025
 ======
+- <span style="color: goldenrod;">**New**</span> (11/2025) Our three papers have all been accepted by **Machine Learning** (CCF B, SCI JCR Q2)!
 - <span style="color: goldenrod;">**New**</span> (10/2025) Our paper has been accepted by **the 2025 IEEE International Conference on Big Data (IEEE BigData)** (CCF C)!
 - <span style="color: goldenrod;">**New**</span> (08/2025) Our paper has been accepted by **Expert Systems with Applications** (SCI JCR Q1,中科院一区)!
 - <span style="color: goldenrod;">**New**</span> (07/2025) Our two papers have been accepted by **the 28th European Conference on Artificial Intelligence (ECAI)** (CCF B)!
