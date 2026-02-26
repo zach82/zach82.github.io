@@ -54,7 +54,7 @@ News in 2023
   
 Recent Publications
 ======
-1. **Zaipeng Xie***, Wenhao Fang, Chentai Qiao, Yiming Zhao, and Wenzhan Song. "RhoMARL: Robust Learning for Heterogeneous Multi-agent Systems in Dynamic Environments." Machine Learning 115, 44(2026); (SCI JCR Q1) [\[URL\]]([https://doi.org/10.1016/j.eswa.2025.129421](https://doi.org/10.1007/s10994-025-06972-1))
+1. **Zaipeng Xie***, Wenhao Fang, Chentai Qiao, Yiming Zhao, and Wenzhan Song. "RhoMARL: Robust Learning for Heterogeneous Multi-agent Systems in Dynamic Environments." Machine Learning 115, 44(2026); (CCF-B, SCI JCR Q2) [\[URL\]](https://doi.org/10.1007/s10994-025-06972-1)
 2. **Zaipeng Xie***, Chentai Qiao, Nuo Yang, and Yiming Zhao, “ADAPT: Auction-Based Dynamic Prioritization for Multi-Agent Coordination,” in Proceedings of the 28th European Conference on Artificial Intelligence (ECAI 2025), Frontiers in Artificial Intelligence and Applications, vol. 413, pp. 3527–3534, 2025, Bologna, Italy. (CCF-B, Oral presentation) [\[URL\]](https://doi.org/10.3233/FAIA251227)
 3. **Zaipeng Xie***, Yaowu Wang, Sitong Shen, and Jianan Zhang, “GraphSem: Robust Multi-Agent Reinforcement Learning via Semantic-Graph Communication,” in Proceedings of the 28th European Conference on Artificial Intelligence (ECAI 2025), Frontiers in Artificial Intelligence and Applications, vol. 413, pp. 3839–3846, 2025, Bologna, Italy. (CCF-B, Poster presentation) [\[URL\]](https://doi.org/10.3233/FAIA251266)
 4. **Zaipeng Xie***, Sitong Shen, Yaowu Wang, Chentai Qiao, Bin Tang, and Wenzhan Song. "ROCO: Role-Oriented Communication for Efficient Multi-Agent Reinforcement Learning." Expert Systems with Applications 129421(2025); (SCI JCR Q1) [\[URL\]](https://doi.org/10.1016/j.eswa.2025.129421)
