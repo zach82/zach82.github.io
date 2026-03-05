@@ -50,7 +50,7 @@ News in 2023
 - <span style="color: goldenrod;">**New**</span> (07/2023) Our paper has been accepted by **the 26th European Conference on Artificial Intelligence (ECAI)** (CCF B)!
 - <span style="color: goldenrod;">**New**</span> (06/2023) Our two papers have been accepted by **IEEE International Conference on Systems, Man, and Cybernetics (SMC)** (CCF C)!
 - <span style="color: goldenrod;">**New**</span> (06/2023) Our paper has been accepted by **Sensors** (SCI JCR Q2)!
-- <span style="color: goldenrod;">**New**</span> (01/2023) Our paper has been accepted by **the 56th IEEE International Symposium on Circuits and Systems (ISCAS)** (CCF C)!
+- <span style="color: goldenrod;">**New**</span> (01/2023) Our paper has been accepted by **the 56th IEEE International Symposium on Circuits and Systems (ISCAS)** (CCF B)!
   
 Recent Publications
 ======
