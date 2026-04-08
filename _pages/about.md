@@ -54,8 +54,6 @@ News in 2023
   
 Recent Publications
 ======
-## Recent Publications
-
 1. **Zaipeng Xie**\*, Wei Zhu, Peixin Li, Haotian Ding, and Wenzhan Song, "S2TE: Staged Scale-Free Topology Evolution for Sparse Spiking Neural Networks," *Machine Learning*, vol. 115, Art. no. 50, 2026. (CCF-B, SCI JCR Q2) [[URL]](https://doi.org/10.1007/s10994-025-06982-z)
 
 2. **Zaipeng Xie**\*, Wenhao Fang, Chentai Qiao, Yiming Zhao, and Wenzhan Song, "RhoMARL: Robust Learning for Heterogeneous Multi-Agent Systems in Dynamic Environments," *Machine Learning*, vol. 115, Art. no. 44, 2026. (CCF-B, SCI JCR Q2) [[URL]](https://doi.org/10.1007/s10994-025-06972-1)
