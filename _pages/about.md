@@ -58,7 +58,7 @@ Recent Publications
 
 2. **Zaipeng Xie**\*, Wenhao Fang, Chentai Qiao, Yiming Zhao, and Wenzhan Song, "RhoMARL: Robust Learning for Heterogeneous Multi-Agent Systems in Dynamic Environments," *Machine Learning*, vol. 115, Art. no. 44, 2026. (CCF-B, SCI JCR Q2) [[URL]](https://doi.org/10.1007/s10994-025-06972-1)
 
-3. **Zaipeng Xie**\*, Dingxu Sun, Peixin Li, Ziyang Ye, and Leihan Wang, "FedSTAR: A Federated Learning Framework for Reliable Trajectory Prediction Under Spatiotemporal Heterogeneity," in *Proceedings of the 21st EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom 2025)*, vol. 681, pp. 63–83, 2026. (CCF-C, Oral presentation) [URL]](https://doi.org/10.1007/978-3-032-21171-2_4) 
+3. **Zaipeng Xie**\*, Dingxu Sun, Peixin Li, Ziyang Ye, and Leihan Wang, "FedSTAR: A Federated Learning Framework for Reliable Trajectory Prediction Under Spatiotemporal Heterogeneity," in *Proceedings of the 21st EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom 2025)*, vol. 681, pp. 63–83, 2026. (CCF-C, Oral presentation) [[URL]](https://doi.org/10.1007/978-3-032-21171-2_4) 
 
 4. **Zaipeng Xie**\*, Zishu Zhou, Xuanyao Jie, Xing Gao, Han Xu, and Leihan Wang, "FedHAN: Robust Federated Learning Under Model Heterogeneity and Label Noise," in *Proceedings of the 2025 IEEE International Conference on Big Data (BigData)*, pp. 1597–1604, Macau, China, 2025. (CCF-C, Oral presentation) [[URL]](https://doi.org/10.1109/BigData66926.2025.11401644)
 
