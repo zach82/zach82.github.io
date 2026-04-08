@@ -14,9 +14,7 @@ redirect_from:
 <img src='/images/160px-Animhorse.gif' width="256">
 -->
 
-I am currently an Associate Professor in the Department of Computer Science and Technology at Hohai University, China. I received my B.Eng. degree in Information Engineering from **Southeast University**, Nanjing, China, and my Ph.D. degree in Electrical and Computer Engineering from the **University of Wisconsin–Madison**, USA. I was a visiting scholar at **Oak Ridge National Laboratory**, USA, from 2009 to 2015. My research focuses on distributed computing, machine learning, and their applications. I have authored more than 50 papers and hold over 20 invention patents in these areas.
-
-My current research topics include **Distributed Learning Systems, Multi-agent Systems, and their Applications**. I serve as an Associate Editor for <a href="https://www.sciencedirect.com/journal/sustainable-computing-informatics-and-systems/publish/guide-for-authors"> "Sustainable Computing: Informatics and Systems."(SCI JCR Q2)</a> and as an Editorial Board Member for <a href="https://www.nature.com/srep/"> "Scientific Reports."(SCI JCR Q1)</a>.
+I am currently an Associate Professor in the Department of Computer Science and Technology at Hohai University, China. I received my B.Eng. degree in Information Engineering from Southeast University, Nanjing, China, and my Ph.D. degree in Electrical and Computer Engineering from the University of Wisconsin–Madison, USA. From 2009 to 2015, I was a visiting scholar at Oak Ridge National Laboratory, USA. My research spans distributed computing, machine learning, distributed learning systems, and multi-agent systems, with a particular interest in real-world applications. I have authored more than 50 papers and hold over 20 invention patents. I also serve as an Associate Editor for <a href="https://www.sciencedirect.com/journal/sustainable-computing-informatics-and-systems/publish/guide-for-authors">Sustainable Computing: Informatics and Systems</a> (IF 5.7) and as an Editorial Board Member for <a href="https://www.nature.com/srep/">Scientific Reports</a> (IF 3.9).
 
 News in 2025
 ======
