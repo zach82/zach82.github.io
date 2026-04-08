@@ -102,6 +102,7 @@ Recent Publications
 
 24. **Zaipeng Xie**\*, Chenyu Yuan, Likun Li, and Jiahao Wu, "Energy-Efficient Stochastic Computing for Convolutional Neural Networks by Using Kernel-Wise Parallelism," in *Proceedings of the 56th IEEE International Symposium on Circuits and Systems (ISCAS 2023)*, Monterey, California, USA, May 21–25, 2023. (CCF-B, Oral presentation) [[URL]](https://doi.org/10.1109/ISCAS46773.2023.10181378) [[PDF]](https://www.mediafire.com/file/s5i32r47xexlygk/ISCAS-2023%253DEnergy-Efficient2023Xie.pdf/file)
 
+<!--
 25. **Zaipeng Xie**\*, Junchen Jiang, Ruifeng Chen, Zhihao Qu, and Hanxiang Liu, "FedDGIC: Reliable and Efficient Asynchronous Federated Learning with Gradient Compensation," in *Proceedings of the 28th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2022)*, Nanjing, China, January 10–12, 2023. (CCF-C, Oral presentation) [[URL]](https://doi.org/10.1109/ICPADS56603.2022.00021) [[PDF]](https://www.mediafire.com/file/c7ewm134rck3fpf/ICPADS-2022%253DFedDGIC2022Xie.pdf/file)
 
 26. **Zaipeng Xie**\*, Yao Liu, Zhihao Qu, Bin Tang, and Weiyi Zhao, "FedALP: An Adaptive Layer-Based Approach for Improved Personalized Federated Learning," in *Wireless Algorithms, Systems, and Applications: 17th International Conference (WASA 2022)*, Dalian, China, November 24–26, 2022. (CCF-C, Oral presentation) [[URL]](https://doi.org/10.1007/978-3-031-19214-2_7) [[PDF]](https://www.mediafire.com/file/3awjd0rr92313be/WASA-2022%253DFedALP2022Xie.pdf/file)
@@ -109,7 +110,7 @@ Recent Publications
 27. **Zaipeng Xie**\*, Yufeng Zhang, Pengfei Shao, and Weiyi Zhao, "QDN: An Efficient Value Decomposition Method for Cooperative Multi-Agent Deep Reinforcement Learning," in *Proceedings of the 34th International Conference on Tools with Artificial Intelligence (ICTAI 2022)*, Macao, China, October 31–November 2, 2022. (CCF-C, Oral presentation) [[URL]](https://doi.org/10.1109/ICTAI56018.2022.00183) [[PDF]](https://www.mediafire.com/file/orkn0zmuv6wdctk/ICTAI-2022%253DQDN2022Xie.pdf/file)
 
 28. **Zaipeng Xie**\*, Cheng Ji, and Yufeng Zhang, "Deep Skill Chaining with Diversity for Multi-Agent Systems," in *Artificial Intelligence. CICAI 2022. Lecture Notes in Computer Science*, vol. 13606, Springer, Cham, Beijing, China, August 27–28, 2022. (CAAI-A, Oral presentation, Finalist of Best Student Paper Award) [[URL]](https://doi.org/10.1007/978-3-031-20503-3_17) [[PDF]](https://www.mediafire.com/file/49sonp4ikkcihg6/CICAI-2022%253DDeep2022Xie.pdf/file)
-
+-->
 
 Granted Invention Patents
 ======
