@@ -52,7 +52,7 @@ News in 2023
   
 Recent Publications
 ======
-1. Jianing Zhang, **Zaipeng Xie**\*, Nuo Yang, Juguang Jin, and Wenzhan Song, "Boosting Efficient Experience Exchange in Sparse-Reward Multi-Agent Reinforcement Learning," *Machine Learning*, vol. 115, Art. no. 95, 2026. (CCF-B, SCI JCR Q2) [[URL]](https://doi.org/10.1007/s10994-025-06967-y)
+1. Jianan Zhang, **Zaipeng Xie**\*, Nuo Yang, Juguang Jin, and Wenzhan Song, "Boosting Efficient Experience Exchange in Sparse-Reward Multi-Agent Reinforcement Learning," *Machine Learning*, vol. 115, Art. no. 95, 2026. (CCF-B, SCI JCR Q2) [[URL]](https://doi.org/10.1007/s10994-025-06967-y)
 
 2. **Zaipeng Xie**\*, Wei Zhu, Peixin Li, Haotian Ding, and Wenzhan Song, "S2TE: Staged Scale-Free Topology Evolution for Sparse Spiking Neural Networks," *Machine Learning*, vol. 115, Art. no. 50, 2026. (CCF-B, SCI JCR Q2) [[URL]](https://doi.org/10.1007/s10994-025-06982-z)
 
