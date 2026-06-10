@@ -16,6 +16,11 @@ redirect_from:
 
 I am currently an Associate Professor in the College of Computer Science and Software Engineering at Hohai University, China. I received my B.Eng. degree in Information Engineering from <strong>Southeast University</strong>, Nanjing, China, and my Ph.D. degree in Electrical Engineering from the <strong>University of Wisconsin–Madison</strong>, USA. From 2009 to 2015, I was a visiting scholar at <strong>Oak Ridge National Laboratory</strong>, USA. My research interests include distributed computing, machine learning, federated and distributed learning systems, and multi-agent systems, with a particular focus on real-world applications. I have authored more than 50 papers and hold over 20 invention patents. I also serve as an Associate Editor for <a href="https://www.sciencedirect.com/journal/sustainable-computing-informatics-and-systems/publish/guide-for-authors">Sustainable Computing: Informatics and Systems</a> and as an Editorial Board Member for <a href="https://www.nature.com/srep/">Scientific Reports</a>.
 
+
+News in 2026
+======
+- <span style="color: goldenrod;">**New**</span> (06/2026) Our paper has been accepted by **Swarm and Evolutionary Computation** (SCI JCR Q1,新锐一区Top)!
+  
 News in 2025
 ======
 - <span style="color: goldenrod;">**New**</span> (11/2025) Our three papers have all been accepted by **Machine Learning** (CCF B, SCI JCR Q2)!
