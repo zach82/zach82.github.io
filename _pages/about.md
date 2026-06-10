@@ -19,7 +19,7 @@ I am currently an Associate Professor in the College of Computer Science and Sof
 
 News in 2026
 ======
-- <span style="color: goldenrod;">**New**</span> (06/2026) Our paper has been accepted by **Swarm and Evolutionary Computation** (SCI JCR Q1,新锐一区Top)!
+- <span style="color: goldenrod;">**New**</span> (06/2026) Our paper has been accepted by **Swarm and Evolutionary Computation** (SCI JCR Q1, 新锐一区Top)!
   
 News in 2025
 ======
