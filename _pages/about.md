@@ -58,7 +58,7 @@ News in 2023
   
 Recent Publications
 ======
-1. Zeyu Tang, **Zaipeng Xie**\*, Xiaoyi Wen, Bin Tang, and Wenzhan Song, “EvoDiff-NAS: Evolutionary Neural Architecture Search with Diffusion-Guided Mutation,” *Swarm and Evolutionary Computation*, vol. 107, Art. no. 102442, 2026. [[URL]](https://doi.org/10.1016/j.swevo.2026.102442)
+1. Zeyu Tang, **Zaipeng Xie**\*, Xiaoyi Wen, Bin Tang, and Wenzhan Song, “EvoDiff-NAS: Evolutionary Neural Architecture Search with Diffusion-Guided Mutation,” *Swarm and Evolutionary Computation*, vol. 107, Art. no. 102442, 2026. (SCI JCR Q1, 新锐一区Top) [[URL]](https://doi.org/10.1016/j.swevo.2026.102442)
 
 2. Jianan Zhang, **Zaipeng Xie**\*, Nuo Yang, Juguang Jin, and Wenzhan Song, "Boosting Efficient Experience Exchange in Sparse-Reward Multi-Agent Reinforcement Learning," *Machine Learning*, vol. 115, Art. no. 95, 2026. (CCF-B, SCI JCR Q2) [[URL]](https://doi.org/10.1007/s10994-025-06967-y)
 
