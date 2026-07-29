@@ -19,7 +19,7 @@ I am currently an Associate Professor in the College of Computer Science and Sof
 
 News in 2026
 ======
-- <span style="color: goldenrod;">**New**</span> (07/2026) The student team under my supervision won the **First Prize** in the <a href="https://nuedc.sjtu.edu.cn/CN/Default.aspx" target="_blank">Intel Cup Undergraduate Electronic Design Contest – Embedded System Design Contest</a>, an international collegiate competition hosted in China. （指导学生团队荣获2026年<strong>全国大学生电子设计竞赛嵌入式AI专题邀请赛（Intel杯）</strong>一等奖）
+- <span style="color: goldenrod;">**New**</span> (07/2026) The student team under my supervision won the **First Prize** in the <a href="https://nuedc.sjtu.edu.cn/CN/Default.aspx" target="_blank">Intel Cup Undergraduate Electronic Design Contest – Embedded System Design Contest</a>, an international collegiate competition hosted in China. （指导学生团队荣获2026年<strong>全国大学生电子设计竞赛嵌入式AI专题邀请赛（Intel杯）一等奖</strong>）
 -  <span style="color: goldenrod;">**New**</span> (06/2026) Our two papers have been accepted by **the 2026 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2026)** (CCF C)!
 -  <span style="color: goldenrod;">**New**</span> (06/2026) Our paper has been accepted by **Swarm and Evolutionary Computation** (SCI JCR Q1, 新锐一区Top)!
   
