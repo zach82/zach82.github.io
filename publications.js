@@ -17,7 +17,7 @@ const publications = [
   {key:"xie2024fed2pkd",corresponding:true,year:2024,type:"conference",short:"CLOUD",title:"Fed2PKD: Bridging Model Diversity in Federated Learning via Two-Pronged Knowledge Distillation",authors:["Zaipeng Xie","Han Xu","Xing Gao","Junchen Jiang","Ruiqian Han"],venue:"2024 IEEE 17th International Conference on Cloud Computing (CLOUD)",citation:"IEEE CLOUD 2024, pp. 1–11",pages:"1--11",doi:"10.1109/CLOUD62652.2024.00011"},
   {key:"zhang2024sqmg",corresponding:true,year:2024,type:"conference",short:"IJCNN",title:"SQMG: An Optimized Stochastic Quantization Method Using Multivariate Gaussians for Distributed Learning",authors:["Jianan Zhang","Zaipeng Xie","Hongxing Li","Xuanyao Jie","Yunfei Wang","Bowen Li"],venue:"2024 International Joint Conference on Neural Networks (IJCNN)",citation:"IJCNN 2024, pp. 1–8",pages:"1--8",doi:"10.1109/IJCNN60899.2024.10650133"},
   {key:"song2024bed",year:2024,type:"journal",short:"IEEE IoTJ",title:"Engagement-Free and Contactless Bed Occupancy and Vital Signs Monitoring",authors:["Yingjian Song","Bingnan Li","Dan Luo","Zaipeng Xie","Bradley G. Phillips","Yuan Ke","Wenzhan Song"],venue:"IEEE Internet of Things Journal",citation:"IEEE Internet of Things Journal 11(5), pp. 7935–7947 (2024)",volume:"11",number:"5",pages:"7935--7947",doi:"10.1109/JIOT.2023.3316674"},
-  {key:"gao2024fatigue",corresponding:true,year:2024,type:"journal",short:"CACAIE",title:"Vision-Based Fatigue Crack Automatic Perception and Geometric Updating of Finite Element Model for Welded Joint in Steel Structures",authors:["Tian Gao","Zhiyuan Yuanzhou","Bohai Ji","Zaipeng Xie"],venue:"Computer-Aided Civil and Infrastructure Engineering",citation:"Computer-Aided Civil and Infrastructure Engineering 39, pp. 1659–1675 (2024)",volume:"39",pages:"1659--1675",doi:"10.1111/mice.13166"},
+  {key:"gao2024fatigue",corresponding:true,correspondingAuthors:["Bohai Ji","Zaipeng Xie"],year:2024,type:"journal",short:"CACAIE",title:"Vision-Based Fatigue Crack Automatic Perception and Geometric Updating of Finite Element Model for Welded Joint in Steel Structures",authors:["Tian Gao","Zhiyuan Yuanzhou","Bohai Ji","Zaipeng Xie"],venue:"Computer-Aided Civil and Infrastructure Engineering",citation:"Computer-Aided Civil and Infrastructure Engineering 39, pp. 1659–1675 (2024)",volume:"39",pages:"1659--1675",doi:"10.1111/mice.13166"},
   {key:"xie2024miodsc",corresponding:true,year:2024,type:"journal",short:"CAAI TIT",title:"MioDSC: Mutual Information Oriented Deep Skill Chaining for Multi-Agent Reinforcement Learning",authors:["Zaipeng Xie","Cheng Ji","Chentai Qiao","Wenzhan Song","Zewen Li","Yufeng Zhang","Yujing Zhang"],venue:"CAAI Transactions on Intelligence Technology",citation:"CAAI Transactions on Intelligence Technology 9(4), pp. 1014–1030 (2024)",volume:"9",number:"4",pages:"1014--1030",doi:"10.1049/cit2.12322"},
 
   {key:"xie2023spiking",corresponding:true,year:2023,type:"conference",short:"ICONIP",title:"Efficient Spiking Neural Architecture Search with Mixed Neuron Models and Variable Thresholds",authors:["Zaipeng Xie","Ziang Liu","Peng Chen","Jianan Zhang"],venue:"30th International Conference on Neural Information Processing (ICONIP 2023)",citation:"ICONIP 2023, pp. 466–481",pages:"466--481",doi:"10.1007/978-981-99-8082-6_36"},
@@ -95,7 +95,14 @@ const journalRanks = {
   }
 
   function publicationHtml(item) {
-    const authors = item.authors.map(author => author === "Zaipeng Xie" ? "<strong>Zaipeng Xie" + (item.corresponding ? '<sup class="pub-corresponding" aria-label="corresponding author">*</sup>' : "") + "</strong>" : escapeHtml(author)).join(", ");
+    const authors = item.authors.map(author => {
+      const isCorresponding = item.correspondingAuthors
+        ? item.correspondingAuthors.includes(author)
+        : author === "Zaipeng Xie" && item.corresponding;
+      const name = escapeHtml(author);
+      const marked = name + (isCorresponding ? '<sup class="pub-corresponding" aria-label="corresponding author">*</sup>' : "");
+      return author === "Zaipeng Xie" || isCorresponding ? "<strong>" + marked + "</strong>" : marked;
+    }).join(", ");
     const primaryUrl = item.doi ? "https://doi.org/" + item.doi : item.url;
     const link = "Paper ↗";
     const venueIcon = item.type === "journal"
