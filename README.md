@@ -1,31 +1,41 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# Zaipeng Xie's academic website
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+Personal website: [zach82.github.io](https://zach82.github.io/).
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+## Current site
 
-# Instructions
+The production site is plain HTML, CSS, and browser-side JavaScript. Edit the static files directly; no site-generation step is required.
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+| File | Purpose |
+| --- | --- |
+| `index.html` | Homepage, news, research, static publication markup, mentoring summary, service, and contact information. |
+| `student-achievements.html` | Standalone student awards and mentoring page. |
+| `publications.js` | Publication records and homepage rendering, year/type filters, venue badges, author markers, and BibTeX display/copy. The `overview` field links a record to its detail page. |
+| `publications/*.html` | Standalone paper overview pages, maintained directly in HTML. |
+| `.nojekyll` | Tells GitHub Pages to serve the static files without Jekyll processing. Keep this file in the publishing root. |
 
-See more info at https://academicpages.github.io/
+The retained Jekyll configuration, layouts, includes, Markdown collections, and Ruby dependencies are legacy template files, outside the current production workflow. Editing them does not regenerate the formal static pages.
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+## Local preview and publishing
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+With Python 3 installed, run this command from the repository root:
 
-# Changelog -- bugfixes and enhancements
+```sh
+python3 -m http.server 8000 --bind 127.0.0.1
+```
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+Open [http://127.0.0.1:8000/](http://127.0.0.1:8000/). Refresh after editing; stop the server with Ctrl+C. No Ruby, Bundler, or Jekyll installation is needed.
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+Commit and push the static files to the GitHub Pages publishing branch. The current repository uses `master` and the root-level site files; retain `.nojekyll`. Check the Pages deployment status in GitHub after publishing.
+
+## Updating publications
+
+1. Edit or add the relevant `publications/<slug>.html`. Keep its document title, description, heading, authors, venue/year, summary, and paper/DOI links consistent.
+2. Update the matching record in `publications.js` when bibliographic details or links change. Keep its `key` unique and set `overview` to the correct relative path. `displayYear`, when present, controls grouping; `year` remains the BibTeX publication year.
+3. Synchronize any corresponding static publication entry in `index.html`, including its citation, author markers, Overview link, and embedded BibTeX. JavaScript replaces the initial list in the browser; changing only one copy can leave the initial HTML and rendered list inconsistent. Update homepage news or research text only if it repeats information that changed.
+4. Add any referenced images or downloads with the page, and check relative paths. Detail pages link back through `../index.html#publications`. If renaming a page, update all incoming links. A summary-only edit generally needs only the detail page.
+5. Preserve the existing page navigation, styles, and single Umami tracking script when copying a detail page. Preview the homepage, filters, BibTeX controls, Overview links, detail-page return links, and student achievements page before publishing; check that assets load and the browser console shows no errors.
+
+## Source and license
+
+This repository originated from [AcademicPages](https://github.com/academicpages/academicpages.github.io), forked and detached by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/). The original theme is © 2016 Michael Rose and released under the MIT License. See [LICENSE](LICENSE), and retain its copyright and permission notice when reusing covered code.
